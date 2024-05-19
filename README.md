@@ -36,7 +36,7 @@
 * [Udacity Cloud Developer Nanodgree](confirm.udacity.com/RX7GZZHH)
 * [Udacity Machine Learning](confirm.udacity.com/MNCSNDG7)
 * [Microsoft ADC West Game of Learners Clinics](https://www.credly.com/badges/d3effd50-accb-415a-a261-8ac06150b5fc)
-* []()
+* [Enterprise Chaos Engineering Certified](https://www.credential.net/caf12953-b426-4bbc-a6a8-7c86e08f952d)
 
 ### 🔭 I’m currently working on
 * Building Cloud Native Applications with Python, Rust, Docker, Kubernetes and Terraform.
