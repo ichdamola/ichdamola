@@ -8,7 +8,6 @@
 * I'm great at fixing problems quickly so I can deliver projects on time.
 
 ### 💬 About me
-
 * Name: Adedamola Adedapo
 * Pronouns: He/him
 * Role: Backend/Cloud Engineer/SRE
@@ -37,9 +36,14 @@
 * [Udacity Cloud Developer Nanodgree](confirm.udacity.com/RX7GZZHH)
 * [Udacity Machine Learning](confirm.udacity.com/MNCSNDG7)
 * [Microsoft ADC West Game of Learners Clinics](https://www.credly.com/badges/d3effd50-accb-415a-a261-8ac06150b5fc)
+* []()
 
 ### 🔭 I’m currently working on
 * Building Cloud Native Applications with Python, Rust, Docker, Kubernetes and Terraform.
+
+<!-- ### 📫 How to reach me: -->
+
+
 <!--
 **ichdamola/ichdamola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
