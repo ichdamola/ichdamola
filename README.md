@@ -3,7 +3,9 @@
 
 * Big cloud enthusiast here!  I'm a whiz at Docker , Terraform ️, Kubernetes ☸️, Ansible , AWS  and Google Cloud Platform ☁️.
 
-* I also love giving talks about Programming , Cloud stuff ☁️, Linux pengu, Kubernetes ☸️ and how to deploy things like a boss .
+* I also love giving talks about Programming , Cloud stuff ☁️, Linux, Kubernetes ☸️ and how to deploy things like a boss.
+
+* I'm great at fixing problems quickly so I can deliver projects on time.
 
 ### 💬 About me
 
