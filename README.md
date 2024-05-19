@@ -22,7 +22,7 @@
 * [Pycon Namibia '21 - SOLID Principles of OOP and Agile Design](https://www.slideshare.net/slideshow/solid-principles-of-oop-and-agile-design/249422634)
 * [OAU EEE '20 - Howling Noise Control in Public Address Systems](https://www.slideshare.net/ADEDAPOADEDAMOLA/howling-noise-control-in-public-address-systems)
 
-### Recent Blog Posts 
+### 👨🏻‍💻 Recent Blog Posts 
 * [How to Package Dependency for AWS Lambda with Docker](https://dev.to/lordamola/how-to-package-dependency-for-aws-lambda-with-docker-3mpn)
 * [AWS CLI Setup: IAM User Configuration & Command-Line Access](https://dev.to/lordamola/aws-cli-setup-iam-user-configuration-command-line-access-3m30)
 * [Essential Terminal Commands for Developing in Unix-Like Environments: A Guide to 50 Key Commands](https://medium.com/@adedamola-adedapo/essential-terminal-commands-for-developing-in-unix-like-environme-a-guide-to-50-key-commands-1b923595d4f9)
